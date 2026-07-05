@@ -26,6 +26,6 @@ Concepts Practiced
 - Random number generation
 - Input validation
 
-Purposeo
+Purpose
 
 This project is part of my journey learning C++ by building practical applications instead of only solving programming exercises. The main goal was to understand how turn-based games work, how game rules can be implemented in code, and how to create a simple AI capable of making legal moves.
